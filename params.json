@@ -1,0 +1,6 @@
+{
+  "name": "MyPhysiologyTool",
+  "tagline": "",
+  "body": "### Description\r\n\r\nIncremental game to aid learning of human physiology\r\n\r\n* Begin system with clicks (\"Click to beat heart\")\r\n* Generate resources to setup automation (\"Install cardiovascular system in medulla oblongata to automate heart beat\")\r\n* Tweak automation when problems arise (\"Create relationship between oxygen levels and heart rate\")\r\n* Tab to new organ systems\r\n* Healthy options (meals and exercise) require some degree of inconvenience (100 clicks versus 1 click to eat fast food)\r\n* Unhealthy lifestyles create problems within systems build up until they are encountered",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
